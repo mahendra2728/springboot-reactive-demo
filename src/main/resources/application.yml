@@ -6,3 +6,4 @@ spring:
       database: usersdb
       port: 27017
       host: localhost
+
